@@ -1,0 +1,34 @@
+src/*.exe
+src/hexcoin
+src/hexcoind
+src/test_hexcoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.hexcoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+hexcoin-qt
+HexCoin-Qt.app
+
+# Unit-tests
+Makefile.test
+hexcoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile

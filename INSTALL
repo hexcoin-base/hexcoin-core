@@ -1,0 +1,9 @@
+Building HexCoin
+
+See doc/readme-qt.rst for instructions on building HexCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of HexCoin.
+
+See doc/build-*.txt for instructions on building hexcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of HexCoin.
