@@ -4,6 +4,7 @@ HexCoin integration/staging tree
 https://hexco.in
 
 Copyright (c) 2009-2014 Bitcoin Developers
+
 Copyright (c) 2011-2014 HexCoin Developers
 
 What is HexCoin?
