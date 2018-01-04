@@ -1,7 +1,7 @@
 HexCoin integration/staging tree
 ================================
 
-http://www.hexcoin.org
+https://hexco.in
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 HexCoin Developers
@@ -45,7 +45,7 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/hexcoin-project/hexcoin/tags) are created
+completely stable. [Tags](https://github.com/mroxso/hexcoin/tags) are created
 regularly to indicate new official, stable release versions of HexCoin.
 
 Testing
