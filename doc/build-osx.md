@@ -8,6 +8,7 @@ Authors
 * Douglas Huff <dhuff@jrbobdobbs.org>
 * Colin Dean <cad@cad.cx>
 * Gavin Andresen <gavinandresen@gmail.com>
+* Pascal Rost <contact@pascalrost.de>
 
 License
 -------
@@ -76,7 +77,7 @@ Installing the dependencies using MacPorts is very straightforward.
 
 1. Clone the github tree to get the source code and go into the directory.
 
-        git clone git@github.com:hexcoin-project/hexcoin.git hexcoin
+        git clone git@github.com:hexcoin-base/hexcoin-core/hexcoin.git hexcoin
         cd hexcoin
 
 2.  Build hexcoind:
@@ -111,7 +112,7 @@ Rerunning "openssl version" should now return the correct version.
 
 1. Clone the github tree to get the source code and go into the directory.
 
-        git clone https://github.com/hexcoin-project/hexcoin.git
+        git clone https://github.com/hexcoin-base/hexcoin-core/hexcoin.git
         cd hexcoin
 
 2.  Modify source in order to pick up the `openssl` library.
